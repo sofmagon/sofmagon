@@ -1,11 +1,11 @@
 ![Header](./webdev-header.gif)
 
 <h1 align="center">Hi there!, I'm Sofy Martinelli 🌺</h1>
-<h2 align="center">Frontend developer from Mexico 🇲🇽</h2>
+<h2 align="center">Frontend developer Jr. from Mexico 🇲🇽</h2>
 
 
 
-<img align="right" alt="Coding" width="350" src="https://i.ibb.co/k0Y9kjS/octocat-heart.png">
+<img align="right" alt="Coding" width="350" src="https://i.ibb.co/P52b5b9/octocat-laptop.png">
 
 
 
