@@ -55,9 +55,6 @@
 
 
 <h3 align="left">GitHub Stats:</h3>
-
-<img height="175em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofmagon&layout=compact&theme=algolia"/>
-
 <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofmagon&theme=algolia"/>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A97F&height=120&section=footer"/>
