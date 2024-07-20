@@ -57,4 +57,8 @@
 <h3 align="left">GitHub Stats:</h3>
 <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofmagon&theme=algolia"/>
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00A97F&height=120&section=footer"/>
