@@ -9,13 +9,6 @@
 
 
 
-<h3 align="left">A little bit about me:</h3>
-
--   📚 **I’m currently learning:**   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
--   ✏️ **I love blogging, access to my website in Spanish** [![SOFMAGON](https://img.shields.io/badge/SOFMAGON.com-05A081?style=for-the-badge&logo=semanticui&logoColor=white)](https://sofmagon.com) 👈🏻
-
-
-
 <h3 align="left">I've worked with:</h3>
 
 <p align="center">
