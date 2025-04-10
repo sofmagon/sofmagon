@@ -1,7 +1,7 @@
 <!-- ![Header](./webdev-header.gif) --->
 
 <h1 align="center">Hi there!, I'm Sofy Martinelli 🌺</h1>
-<h2 align="center">Frontend developer from Mexico 🇲🇽</h2>
+<h2 align="center">IT Engineer, Frontend developer</h2>
 
 <table>
   <tr>
