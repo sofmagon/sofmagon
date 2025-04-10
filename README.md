@@ -3,17 +3,19 @@
 <h1 align="center">Hi there!, I'm Sofy Martinelli 🌺</h1>
 <h2 align="center">Frontend developer from Mexico 🇲🇽</h2>
 
-<p align="center">
-  <img src="https://i.ibb.co/P52b5b9/octocat-laptop.png" alt="Coding" width="200"/>
-</p>
-
-<h3 align="center">I've worked with:</h3>
-
-<p align="center">
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,npm,gulp,vite,git,github,gitlab,md,vscode,jira,figma,postman,wordpress,notion,apple" alt="Tech stack"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://i.ibb.co/P52b5b9/octocat-laptop.png" alt="Coding" width="200"/>
+    </td>
+    <td align="center" width="50%">
+      <h3>I've worked with:</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,npm,gulp,vite,git,github,gitlab,md,vscode,jira,figma,postman,wordpress,notion,apple" alt="Tech stack"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
