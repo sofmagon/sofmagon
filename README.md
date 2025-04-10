@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://i.ibb.co/P52b5b9/octocat-laptop.png" alt="Coding" width="200"/>
+      <img src="https://i.ibb.co/P52b5b9/octocat-laptop.png" alt="Coding" />
     </td>
     <td align="center" width="75%">
       <h3>I've worked with:</h3>
