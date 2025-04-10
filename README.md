@@ -11,7 +11,7 @@
     <td align="center" width="75%">
       <h3>I've worked with:</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,npm,gulp,vite,git,github,gitlab,md,vscode,jira,figma,postman,wordpress,notion,apple" alt="Tech stack"/>
+        <img width="100%" src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,npm,gulp,vite,git,github,gitlab,md,vscode,jira,figma,postman,wordpress,notion,apple" alt="Tech stack"/>
       </a>
     </td>
   </tr>
