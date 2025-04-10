@@ -5,10 +5,10 @@
 
 <table>
   <tr>
-    <td align="center" width="30%">
+    <td align="center" width="25%">
       <img src="https://i.ibb.co/P52b5b9/octocat-laptop.png" alt="Coding" width="200"/>
     </td>
-    <td align="center" width="70%">
+    <td align="center" width="75%">
       <h3>I've worked with:</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,npm,gulp,vite,git,github,gitlab,md,vscode,jira,figma,postman,wordpress,notion,apple" alt="Tech stack"/>
