@@ -14,11 +14,12 @@
 
 - 🧩 Puzzles are one of my favorite ways to relax with my husband over the weekend.
 
-<h3 align="left">I've worked with:</h3>
-
-<a href="https://skillicons.dev" align="left" >
-  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,npm,gulp,vite,git,github,gitlab,md,vscode,jira,figma,postman,wordpress,notion,apple" />
-</a>
+<div>
+  <h3 align="left">I've worked with these tech langs & tools:</h3>
+  <a href="https://skillicons.dev" align="left" >
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,npm,gulp,vite,git,github,gitlab,md,vscode,jira,figma,postman,wordpress,notion,apple" />
+  </a>
+</div>
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
