@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there!, I'm Sofy Martinelli 🌺</h1>
 <h2 align="center">Frontend developer from Mexico 🇲🇽</h2>
-<img align="right" alt="Coding" width="360" src="https://i.ibb.co/P52b5b9/octocat-laptop.png" />
+<img align="right" alt="Coding" width="350" src="https://i.ibb.co/P52b5b9/octocat-laptop.png" />
 
 <h3 align="left">A little bit about me:</h3>
 
@@ -16,12 +16,15 @@
 
 <br><hr>
 
-<div align="center">
+<div>
   <h3>I've worked with these tech langs & tools:</h3>
   <a href="https://skillicons.dev" align="left" >
     <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,npm,gulp,vite,git,github,gitlab,md,vscode,jira,figma,postman,wordpress,notion,apple" />
   </a>
 </div>
+
+<br><hr>
+
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
