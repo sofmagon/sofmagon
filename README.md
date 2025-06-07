@@ -6,15 +6,19 @@
 
 <h3 align="left">A little bit about me:</h3>
 
-- 📚 **I love reading romantic novels and self growth books.
-- 🎲 **I enjoy play boardgames in solo mode in my free time when it's possible.
-- 🧩 **Puzzles are a good way to relax with my husband during a Friday night.
+- 📚 I'm currently studying Data Analytics.
+
+- 🧠 I'm passionate about logic, analytical thinking, and critical reasoning. I truly enjoy solving problems and making deductions.
+
+- 🎲 I love playing board games in solo mode during my free time, whenever possible.
+
+- 🧩 Puzzles are one of my favorite ways to relax with my husband over the weekend.
 
 <h3 align="left">I've worked with:</h3>
 
-  <a href="https://skillicons.dev" align="left" >
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,npm,gulp,vite,git,github,gitlab,md,vscode,jira,figma,postman,wordpress,notion,apple" />
-  </a>
+<a href="https://skillicons.dev" align="left" >
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,npm,gulp,vite,git,github,gitlab,md,vscode,jira,figma,postman,wordpress,notion,apple" />
+</a>
 
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
