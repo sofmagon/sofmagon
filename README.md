@@ -14,6 +14,8 @@
 
 - 🧩 Puzzles are one of my favorite ways to relax with my husband over the weekend.
 
+<br><hr>
+
 <div align="center">
   <h3>I've worked with these tech langs & tools:</h3>
   <a href="https://skillicons.dev" align="left" >
