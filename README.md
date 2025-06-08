@@ -6,12 +6,12 @@
 
 <h3 align="left">A little bit about me:</h3>
 
-- 📚 I'm currently studying Data Analytics.
-
+- 📚 I'm currently studying Data Analytics with Python, SQL, MS Power BI, Tableau.
 - 🧠 I'm passionate about logic, analytical thinking, and critical reasoning. I truly enjoy solving problems and making deductions.
 
-- 🎲 I love playing board games in solo mode during my free time, whenever possible.
+<h3 align="left">Fun facts: </h3>
 
+- 🎲 I love playing board games in solo mode during my free time, whenever possible.
 - 🧩 Puzzles are one of my favorite ways to relax with my husband over the weekend.
 
 <br><hr>
