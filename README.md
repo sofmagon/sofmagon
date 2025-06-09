@@ -26,7 +26,7 @@
 <div>
   <h3>No matter the role, I love working with these tools:</h3>
   <a href="https://skillicons.dev" align="left" >
-    <img src="https://skillicons.dev/icons?i=npm,vite,git,github,gitlab,md,vscode,wordpress,notion,apple" />
+    <img src="https://skillicons.dev/icons?i=npm,git,github,gitlab,md,vscode,wordpress,notion,apple" />
   </a>
 </div>
 
