@@ -6,7 +6,7 @@
 
 <h3 align="left">A little bit about me:</h3>
 
-- 📚 I'm currently studying Data Analytics with Python, SQL, MS Power BI, Tableau.
+- 📚 I'm currently studying Data Analytics focused on Business Intelligence.
 - 🧠 I'm passionate about logic, analytical thinking, and critical reasoning. I truly enjoy solving problems and making deductions.
 
 <h3 align="left">Fun facts: </h3>
