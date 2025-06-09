@@ -19,14 +19,14 @@
 <div>
   <h3>As Frontend developer I've worked with these tech langs & tools:</h3>
   <a href="https://skillicons.dev" align="left" >
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,npm,gulp,vite,git,github,gitlab,md,vscode,figma,postmanapple" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,npm,gulp,vite,git,github,gitlab,md,figma,postmanapple" />
   </a>
 </div>
 
 <div>
   <h3>No matter the role, I love working with these tools:</h3>
   <a href="https://skillicons.dev" align="left" >
-    <img src="https://skillicons.dev/icons?i=npm,git,github,gitlab,md,vscode,wordpress,notion,apple" />
+    <img src="https://skillicons.dev/icons?i=npm,git,github,gitlab,md,vscode,sublime,wordpress,notion,apple" />
   </a>
 </div>
 
