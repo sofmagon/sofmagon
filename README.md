@@ -17,9 +17,16 @@
 <br><hr>
 
 <div>
-  <h3>I've worked with these tech langs & tools:</h3>
+  <h3>As Frontend developer I've worked with these tech langs & tools:</h3>
   <a href="https://skillicons.dev" align="left" >
-    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,npm,gulp,vite,git,github,gitlab,md,vscode,jira,figma,postman,wordpress,notion,apple" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,react,npm,gulp,vite,git,github,gitlab,md,vscode,figma,postmanapple" />
+  </a>
+</div>
+
+<div>
+  <h3>No matter the role, I love working with these tools:</h3>
+  <a href="https://skillicons.dev" align="left" >
+    <img src="https://skillicons.dev/icons?i=npm,vite,git,github,gitlab,md,vscode,jira,wordpress,notion,apple" />
   </a>
 </div>
 
